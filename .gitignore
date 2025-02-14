@@ -1,0 +1,41 @@
+# Node.js
+/node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build outputs
+/dist/
+/build/
+
+# Tailwind CSS build outputs
+/.tailwind/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+
+# MacOS specific
+*.AppleDouble
+*.LSOverride
+
+# Windows specific
+Thumbs.db
+Desktop.ini

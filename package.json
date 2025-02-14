@@ -1,0 +1,15 @@
+{
+  "name": "bright-path",
+  "version": "1.0.0",
+  "description": "The Bright Path project",
+  "scripts": {},
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17"
+  }
+}
