@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Claim Offer - Redirect to WhatsApp
     claimOffer.addEventListener("click", () => {
         const whatsappMessage = `Hello Team! I am interested in B.Ed admission at ₹80,000/- for both years. Please guide me with the admission process.`;
-        const whatsappNumber = "918825273988";
+        const whatsappNumber = "8757807372";
         const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`;
         window.open(whatsappLink, "_blank");
     });
@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", () => {
         // Create WhatsApp message
         const whatsappMessage = `Hello Team! I am ${name}. My mobile number is ${mobile} and my email is ${email}. I am interested in the course: ${selectedCourse}`;
 
-        const whatsappNumber = "918825273988";
+        const whatsappNumber = "8757807372";
 
         // WhatsApp link
         const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
